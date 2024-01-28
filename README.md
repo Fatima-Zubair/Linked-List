@@ -2,7 +2,6 @@
 ## Node
 - In my node file there is a practical implementation of linked lists with various functionalities. 
 - The Node class serves as the building block for creating linked lists, and the main program provides a user interface to interact with the linked lists.
-<br>
 - The Node class represents a node in the linked list and contains the following attributes:<br>
 
 data: Integer value representing the data stored in the node.<br>
